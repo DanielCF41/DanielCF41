@@ -1,10 +1,8 @@
 ## Olá eu sou o Daniel. 👋
 
-<!--
-**DanielCF41/DanielCF41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou estudante de Engenharia de Telecomunicações no IFSC Campus São José.
+- 🌱 Atualmente me encontro em nível de conhecimento intermediário com linguagem C e iniciante com linguagem Java.
+  
+## Isto é um pouco sobre mim. Até mais!
 
 
-- 🔭 I’m currently studying in IFSC Campus São José
-- 🌱 I’m currently learning C and Java
-
--->
