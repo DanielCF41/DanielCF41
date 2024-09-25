@@ -1,6 +1,6 @@
 ## Olá , eu sou o Daniel. 👋
 
-- 📚 Sou estudante de Engenharia de Telecomunicações do IFSC(Instituto Federal de Santa Catarina) campus São José, atuamente no quarto semestre 2024.2.
+- 📚 Sou estudante de Engenharia de Telecomunicações do IFSC (Instituto Federal de Santa Catarina) campus São José, atuamente no quarto semestre 2024.2.
 - 📡 Tenho conhecimentos em C, Java, Matlab, Vhdl, e Python.
 - ♻️ Possuo repositórios com códigos e contúdos estudados em algumas disciplinas do curso, sinta-se a vontade para estudar a partir do que está disponibilizado.
 
@@ -9,6 +9,7 @@
 # Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
-
+## Isto é um pouco sobre mim! 
+![file:///home/aluno/Downloads/jam.gif]
 
 
