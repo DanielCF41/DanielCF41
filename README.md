@@ -1,8 +1,12 @@
-## Hi, I'm Daniel. 👋
-Daniel Fernandes is a telecommunications engineering student at IFSC, São José campus, currently in his fourth semester. He is passionate about technology and is dedicated to mastering the complexities of telecommunications. With a strong foundation in engineering principles, Daniel is eager to apply his knowledge to real-world challenges in the field. His commitment to learning and innovation sets him apart as a promising young engineer.
-# LANGUAGES
+## Olá , eu sou o Daniel. 👋
+
+📚 Sou estudante de Engenharia de Telecomunicações do IFSC(Instituto Federal de Santa Catarina) campus São José, atuamente no quarto semestre 2024.2.
+📡 Tenho conhecimentos em C, Java, Matlab, Vhdl, e Python.
+♻️ Possuo repositórios com códigos e contúdos estudados em algumas disciplinas do curso, sinta-se a vontade para estudar a partir do que está disponibilizado.
+
+# Linguagens
 [![My Skills](https://skillicons.dev/icons?i=c,java,matlab,python)](https://skillicons.dev)  
-# TOOLS 
+# Ferramentas 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 
 
