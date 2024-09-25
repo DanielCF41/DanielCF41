@@ -10,6 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,clion,git,cmake)](https://skillicons.dev)
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
 ## Isto é um pouco sobre mim! 
-!(file:///home/aluno/Downloads/jam.gif)
+![Gif](file:///home/aluno/Downloads/jam.gif)
 
 
